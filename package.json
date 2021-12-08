@@ -1,14 +1,15 @@
 {
-	"name": "xhr2-cookies",
+	"name": "xhr2-cookies-web3fix",
 	"version": "1.1.0",
-	"author": "Ionut Costica <ionut.costica@gmail.com>",
+	"author": "0xthrpw <0xthrpw@protonmail.com>",
 	"license": "MIT",
-	"description": "XMLHttpRequest polyfill for node.js",
-	"repository": "git://github.com/souldreamer/xhr2-cookies.git",
+	"description": "XMLHttpRequest polyfill for node.js by Ionut Costica (github.com/souldreamer/xhr2-cookies.git) with minor modification to xml-http-request.tx, removed references to process.versions.node",
+	"repository": "git://github.com/0xthrpw/xhr2-cookies-web3fix.git",
 	"keywords": [
 		"XMLHttpRequest",
 		"cookies",
-		"xhr2"
+		"xhr2",
+		"web3"
 	],
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
