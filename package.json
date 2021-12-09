@@ -34,7 +34,7 @@
 		"webpack": "^3.5.5"
 	},
 	"scripts": {
-		"prepare": "tsc",
+		"prepare": "npm install",
 		"test": "tsc -p ./test && ava-ts -v"
 	},
 	"ava": {
